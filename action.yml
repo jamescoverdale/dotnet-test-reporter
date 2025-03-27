@@ -1,6 +1,6 @@
-name: 'Dotnet Test Reporter'
-description: 'A GitHub action to parse test results and post the summary as a PR comment'
-author: 'https://github.com/bibipkins'
+name: 'Dotnet Test Reporter - jamescoverdale'
+description: 'a fork of: https://github.com/bibipkins/dotnet-test-reporter - A GitHub action to parse test results and post the summary as a PR comment. '
+author: 'https://github.com/jamescoverdale'
 branding:
   icon: 'check-square'
   color: 'white'
